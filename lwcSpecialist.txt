@@ -1,0 +1,8 @@
+--- Lightning Web Components Especialist
+https://developer.salesforce.com/docs/component-library/bundle/lightning-record-form/documentation
+
+###Lightning Web Components and Salesforce Data
+ - Use Lightning Data Service (LDS) to Work with Data
+	*** Base Components -> <lightning-record-form> to create, read, edit records
+	
+ - Wire Adapters @wire
